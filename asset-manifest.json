@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kepler.gl-taste/static/css/main.88904d09.chunk.css",
+    "main.js": "/kepler.gl-taste/static/js/main.91921cf3.chunk.js",
+    "main.js.map": "/kepler.gl-taste/static/js/main.91921cf3.chunk.js.map",
+    "runtime-main.js": "/kepler.gl-taste/static/js/runtime-main.7c4a1717.js",
+    "runtime-main.js.map": "/kepler.gl-taste/static/js/runtime-main.7c4a1717.js.map",
+    "static/js/2.30f74c97.chunk.js": "/kepler.gl-taste/static/js/2.30f74c97.chunk.js",
+    "static/js/2.30f74c97.chunk.js.map": "/kepler.gl-taste/static/js/2.30f74c97.chunk.js.map",
+    "static/js/3.b6abd3c7.chunk.js": "/kepler.gl-taste/static/js/3.b6abd3c7.chunk.js",
+    "static/js/3.b6abd3c7.chunk.js.map": "/kepler.gl-taste/static/js/3.b6abd3c7.chunk.js.map",
+    "index.html": "/kepler.gl-taste/index.html",
+    "static/css/main.88904d09.chunk.css.map": "/kepler.gl-taste/static/css/main.88904d09.chunk.css.map",
+    "static/js/2.30f74c97.chunk.js.LICENSE.txt": "/kepler.gl-taste/static/js/2.30f74c97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c4a1717.js",
+    "static/js/2.30f74c97.chunk.js",
+    "static/css/main.88904d09.chunk.css",
+    "static/js/main.91921cf3.chunk.js"
+  ]
+}
